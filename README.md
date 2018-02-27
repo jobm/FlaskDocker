@@ -2,7 +2,7 @@
 
 This is a test on how to use docker to deploy to an azure linux machine.
 
-##steps
+## Steps
 1. install requirements
     * `pip install -r requirements.txt `
 2. bulid a docker image and run locally
